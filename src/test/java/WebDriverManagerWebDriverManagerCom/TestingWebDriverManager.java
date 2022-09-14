@@ -8,7 +8,12 @@ public class TestingWebDriverManager {
 		driverhelpers calledgeclass = new driverhelpers();
 		
 		callchromeclass.chromedriverhelpers();
-		calledgeclass.Firforxdriverhelpers();
-	
+		callchromeclass.lunchWebPage();
+		
+		calledgeclass.edgedriverhelpers();
+		calledgeclass.lunchWebPage();
+		
+		
+		
 	}
 }
